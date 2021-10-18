@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>net.clojars.wanderung</groupId>
-  <artifactId>datascript</artifactId>
+  <groupId>io.replikativ</groupId>
+  <artifactId>wanderung-datascript</artifactId>
   <version>0.1.0-SNAPSHOT</version>
-  <name>wanderung/datascript</name>
+  <name>wanderung-datascript</name>
   <description>FIXME: my new application.</description>
-  <url>https://github.com/wanderung/datascript</url>
+  <url>https://github.com/replikativ/wanderung-datascript</url>
   <licenses>
     <license>
       <name>Eclipse Public License</name>
@@ -20,8 +20,8 @@
   </developers>
   <scm>
     <url>https://github.com/wanderung/datascript</url>
-    <connection>scm:git:git://github.com/wanderung/datascript.git</connection>
-    <developerConnection>scm:git:ssh://git@github.com/wanderung/datascript.git</developerConnection>
+    <connection>scm:git:git://github.com/replikativ/wanderung-datascript.git</connection>
+    <developerConnection>scm:git:ssh://git@github.com/replikativ/wanderung-datascript.git</developerConnection>
     <tag>v0.1.0-SNAPSHOT</tag>
   </scm>
   <dependencies>
